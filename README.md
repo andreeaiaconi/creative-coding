@@ -11,5 +11,4 @@ Visuals created from this course can be found in:
 - [sketch-agents](sketch-agents/sketch-agents.md)
 - [sketch-noise](sketch-noise/sketch-noise.md)
 - [sketch-text](sketch-text/sketch-text.md)
-
-and my final project creations in [project-reflection](final-project/project-reflection.md)
+- and my final project creations in [project-reflection](final-project/project-reflection.md)
